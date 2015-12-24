@@ -3,6 +3,9 @@ OS PseudoTTY (PTY) explanations, mechanics, and C code
 
 ## Overview
 
+## TODO
+Experiment with 'openpty' and 'login_tty' which simplify the handling of creating master and slave PTY file descriptors.
+
 ### Key Concepts/Points
 ```
 -- PTY Related API's
